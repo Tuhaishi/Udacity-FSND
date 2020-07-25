@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: tuhaishi
+    Default: Tuhaishi
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
