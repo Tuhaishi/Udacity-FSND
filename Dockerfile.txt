@@ -1,3 +1,0 @@
-FROM python:stretch
-
-ENTRYPOINT ["gunicorn", "-b", ":8080", "main:APP"]
